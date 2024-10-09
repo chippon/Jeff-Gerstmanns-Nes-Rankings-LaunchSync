@@ -17,8 +17,3 @@ At the Main Mister Menu goto scripts and run launchsync and it should find the n
 #LaunchSync Info
 LaunchSync is part of https://github.com/wizzomafizzo/mrext MiSTer Extensions project.
 More info at https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md
-
-#Jeff Gerstmann ranks NES games on fridays
-#Jeff Gerstmann ranks NES games on fridays
-#Jeff Gerstmann ranks NES games on fridays
-#Jeff Gerstmann ranks NES games on fridays
