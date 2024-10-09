@@ -16,4 +16,5 @@ Game [NOT FOUND]
 
 # LaunchSync Info
 LaunchSync is part of https://github.com/wizzomafizzo/mrext MiSTer Extensions project.
+
 More info at https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md
