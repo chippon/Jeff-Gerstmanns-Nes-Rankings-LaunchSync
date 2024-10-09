@@ -1,7 +1,13 @@
 # Jeff Gerstmanns Nes Rankings LaunchSync for MiSTerFPGA
 LaunchSync File for the MisterFpga of Jeff's Nes Rankings.
 
-This is generated off the https://8bitnintendo.science/ github's "list.csv" (Thank you!) and then converted to a LaunchSync .sync file.
+# LaunchSync Info
+* LaunchSync is part of https://github.com/wizzomafizzo/mrext MiSTer Extensions project.
+
+* More info at https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md
+  
+# Thanks https://8bitnintendo.science/
+* This is generated off the https://8bitnintendo.science/ github's "list.csv" and then converted to a LaunchSync .sync file.
 
 # What does this do?
 Creates a Main Menu folder Named "The Science - Jeff Gerstmann's Nes Ranking"
@@ -28,10 +34,7 @@ Games with [NOT FOUND] in the name
 * You can edit or add more matches for the games that were not found in the sync file.
 
 
-# LaunchSync Info
-LaunchSync is part of https://github.com/wizzomafizzo/mrext MiSTer Extensions project.
 
-More info at https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md
 
 # Updates?
 * on the backend, hoping to use more general regex in the build script to get better matches from the list.csv.
