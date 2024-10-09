@@ -36,4 +36,7 @@ More info at https://github.com/wizzomafizzo/mrext/blob/main/docs/launchsync.md
 # Updates?
 * on the backend, hoping to use more general regex in the build script to get better matches from the list.csv.
 * fix list that matches the list.csv and replaces phrases then see if it can get more matches. (mario bros. = mario bros. + duck hunt) etc.
+* This was made with bash, the script can be found in the data folder as Build_Sync_List.sh
+
+# <>
   
