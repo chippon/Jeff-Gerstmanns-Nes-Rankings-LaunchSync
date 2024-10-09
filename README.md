@@ -9,7 +9,7 @@ At the Main Mister Menu goto scripts and run launchsync and it should find the n
 
 #Issues I ran into
 
-# Timeout when trying to build the games database at startup of LaunchSync script
+# Timeout during build of games db at startup of LaunchSync
 - I turned off CIFS to unmount my networked games then loaded a nes set onto my main flash cart
 - change cifs.sh (script) mount point to mister folder with only nes populated
 
