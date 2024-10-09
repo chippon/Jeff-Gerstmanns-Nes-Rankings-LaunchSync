@@ -5,10 +5,10 @@ This is generated off the https://8bitnintendo.science/ github's "list.csv" (Tha
 
 # What does this do?
 Creates a Main Menu folder Named "The Science - Jeff Gerstmann's Nes Ranking"
- ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/Main_Menu_Science.gif?raw=true)
+ ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/data/Main_Menu_Science.gif?raw=true)
  
 Inside that folder the games (that were found at sync) can be played
-  ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/Game_List.png?raw=true)
+  ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/data/Game_List.png?raw=true)
 * The [NOT FOUND] games will still load into the emulator so you don't have to menu out.
   
 # How To
