@@ -1,4 +1,4 @@
-# MisterFPGA-Jeff-Gerstmanns-Nes-Rankings-LaunchSync
+# Jeff Gerstmanns Nes Rankings LaunchSync for MiSTerFPGA
 LaunchSync File for the MisterFpga of Jeff's Nes Rankings
 
 This is generated off the https://8bitnintendo.science/ list (Thank you!) and then converted to a LaunchSync .sync file
