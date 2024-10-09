@@ -3,6 +3,14 @@ LaunchSync File for the MisterFpga of Jeff's Nes Rankings.
 
 This is generated off the https://8bitnintendo.science/ github's "list.csv" (Thank you!) and then converted to a LaunchSync .sync file.
 
+#What does this do?
+Creates a Main Menu folder Named "The Science - Jeff Gerstmann's Nes Ranking"
+  ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/Main_Menu.gif?raw=true)
+
+
+Inside that folder the games (that were found at sync) can be played
+  ![alt text](https://github.com/chippon/Jeff-Gerstmanns-Nes-Rankings-LaunchSync/raw/main/Game_List.png?raw=true)
+  
 # How To
 * 1- Download the Jeff_Nes_Ranking.sync file and place it in your /media/fat/ folder on your MisterFpga.
 * 2- At the Main Mister Menu -> scripts -> run launchsync
