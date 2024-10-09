@@ -1,1513 +1,1890 @@
-name = The Science (Jeff Gerstmann's Nes Ranking)
-author = 8bitnintendo.science
-url = 
-updated = 2024-10-08 
+name = The Science - Jeff Gerstmann's Nes Ranking
+author = chippon
+url = https://raw.githubusercontent.com/chippon/MisterFPGA-Jeff-Gerstmanns-Nes-Rankings-LaunchSync/refs/heads/main/Jeff_Nes_Ranking.sync
+updated = 2024-10-09 03:48 
 
 [001 - Mega Man 2]
 system = NES
 match = Mega Man 2 (USA)
+match = Mega Man 2
 
 [002 - Bionic Commando]
 system = NES
 match = Bionic Commando (USA)
+match = Bionic Commando
 
 [003 - Super Mario Bros.]
 system = NES
 match = Super Mario Bros. (USA)
+match = Super Mario Bros.
 
 [004 - Rygar]
 system = NES
 match = Rygar (USA)
+match = Rygar
 
 [005 - River City Ransom]
 system = NES
 match = River City Ransom (USA)
+match = River City Ransom
 
 [006 - Super Mario Bros. 2]
 system = NES
 match = Super Mario Bros. 2 (USA)
+match = Super Mario Bros. 2
 
 [007 - DuckTales]
 system = NES
 match = DuckTales (USA)
+match = DuckTales
 
 [008 - Contra]
 system = NES
 match = Contra (USA)
+match = Contra
 
 [009 - Baseball Stars]
 system = NES
 match = Baseball Stars (USA)
+match = Baseball Stars
 
 [010 - Mike Tyson's Punch-Out!!]
 system = NES
 match = Mike Tyson's Punch-Out!! (USA)
+match = Mike Tyson's Punch-Out!!
 
 [011 - R.B.I. Baseball]
 system = NES
 match = R.B.I. Baseball (USA)
+match = R.B.I. Baseball
 
 [012 - Blaster Master]
 system = NES
 match = Blaster Master (USA)
+match = Blaster Master
 
-[013 - The Lone Ranger]
+[013 - Lone Ranger]
 system = NES
-match = The Lone Ranger (USA)
+match = Lone Ranger (USA)
+match = Lone Ranger
 
-[014 - The Goonies II]
+[014 - Goonies II]
 system = NES
-match = The Goonies II (USA)
+match = Goonies II (USA)
+match = Goonies II
 
 [015 - Gun.Smoke]
 system = NES
 match = Gun.Smoke (USA)
+match = Gun.Smoke
 
 [016 - Super Dodge Ball]
 system = NES
 match = Super Dodge Ball (USA)
+match = Super Dodge Ball
 
 [017 - Little Samson]
 system = NES
 match = Little Samson (USA)
+match = Little Samson
 
 [018 - Solomon's Key]
 system = NES
 match = Solomon's Key (USA)
+match = Solomon's Key
 
 [019 - Metal Gear]
 system = NES
 match = Metal Gear (USA)
+match = Metal Gear
 
 [020 - Jackal]
 system = NES
 match = Jackal (USA)
+match = Jackal
 
 [021 - R.C. Pro-Am]
 system = NES
 match = R.C. Pro-Am (USA)
+match = R.C. Pro-Am
 
 [022 - Gun-Nac]
 system = NES
 match = Gun-Nac (USA)
+match = Gun-Nac
 
 [023 - Mega Man]
 system = NES
 match = Mega Man (USA)
+match = Mega Man
 
 [024 - Ninja Gaiden]
 system = NES
 match = Ninja Gaiden (USA)
+match = Ninja Gaiden
 
 [025 - Cobra Triangle]
 system = NES
 match = Cobra Triangle (USA)
+match = Cobra Triangle
 
 [026 - Tecmo Bowl]
 system = NES
 match = Tecmo Bowl (USA)
+match = Tecmo Bowl
 
 [027 - Castlevania]
 system = NES
 match = Castlevania (USA)
+match = Castlevania
 
 [028 - Hudson's Adventure Island II]
 system = NES
 match = Hudson's Adventure Island II (USA)
+match = Hudson's Adventure Island II
 
 [029 - Metal Storm]
 system = NES
 match = Metal Storm (USA)
+match = Metal Storm
 
 [030 - Fire 'N Ice]
 system = NES
 match = Fire 'N Ice (USA)
+match = Fire 'N Ice
 
 [031 - Kickle Cubicle]
 system = NES
 match = Kickle Cubicle (USA)
+match = Kickle Cubicle
 
 [032 - Kung Fu]
 system = NES
 match = Kung Fu (USA)
+match = Kung Fu
 
 [033 - Commando]
 system = NES
 match = Commando (USA)
+match = Commando
 
 [034 - Tecmo World Wrestling]
 system = NES
 match = Tecmo World Wrestling (USA)
+match = Tecmo World Wrestling
 
 [035 - Balloon Fight]
 system = NES
 match = Balloon Fight (USA)
+match = Balloon Fight
 
 [036 - Guerrilla War]
 system = NES
 match = Guerrilla War (USA)
+match = Guerrilla War
 
 [037 - Code Name: Viper]
 system = NES
 match = Code Name: Viper (USA)
+match = Code Name: Viper
 
 [038 - Power Blade]
 system = NES
 match = Power Blade (USA)
+match = Power Blade
 
 [039 - Shatterhand]
 system = NES
 match = Shatterhand (USA)
+match = Shatterhand
 
 [040 - Trojan]
 system = NES
 match = Trojan (USA)
+match = Trojan
 
 [041 - Super Spy Hunter]
 system = NES
 match = Super Spy Hunter (USA)
+match = Super Spy Hunter
 
 [042 - Solar Jetman: Hunt for the Golden Warpship]
 system = NES
 match = Solar Jetman: Hunt for the Golden Warpship (USA)
+match = Solar Jetman: Hunt for the Golden Warpship
 
 [043 - Baseball Simulator 1.000]
 system = NES
 match = Baseball Simulator 1.000 (USA)
+match = Baseball Simulator 1.000
 
 [044 - Air Fortress]
 system = NES
 match = Air Fortress (USA)
+match = Air Fortress
 
 [045 - Zanac]
 system = NES
 match = Zanac (USA)
+match = Zanac
 
-[046 - The Guardian Legend]
+[046 - Guardian Legend]
 system = NES
-match = The Guardian Legend (USA)
+match = Guardian Legend (USA)
+match = Guardian Legend
 
 [047 - Teenage Mutant Ninja Turtles II: The Arcade Game]
 system = NES
 match = Teenage Mutant Ninja Turtles II: The Arcade Game (USA)
+match = Teenage Mutant Ninja Turtles II: The Arcade Game
 
 [048 - Mighty Bomb Jack]
 system = NES
 match = Mighty Bomb Jack (USA)
+match = Mighty Bomb Jack
 
 [049 - Kick Master]
 system = NES
 match = Kick Master (USA)
+match = Kick Master
 
 [050 - Gradius]
 system = NES
 match = Gradius (USA)
+match = Gradius
 
 [051 - Tetris]
 system = NES
 match = Tetris (USA)
+match = Tetris
 
 [052 - P.O.W. Prisoners of War]
 system = NES
 match = P.O.W. Prisoners of War (USA)
+match = P.O.W. Prisoners of War
 
 [053 - Strider]
 system = NES
 match = Strider (USA)
+match = Strider
 
 [054 - Chip 'n Dale: Rescue Rangers]
 system = NES
 match = Chip 'n Dale: Rescue Rangers (USA)
+match = Chip 'n Dale: Rescue Rangers
 
 [055 - Adventures of Lolo]
 system = NES
 match = Adventures of Lolo (USA)
+match = Adventures of Lolo
 
 [056 - Panic Restaurant]
 system = NES
 match = Panic Restaurant (USA)
+match = Panic Restaurant
 
 [057 - Dragon Warrior]
 system = NES
 match = Dragon Warrior (USA)
+match = Dragon Warrior
 
 [058 - Star Force]
 system = NES
 match = Star Force (USA)
+match = Star Force
 
 [059 - Blades of Steel]
 system = NES
 match = Blades of Steel (USA)
+match = Blades of Steel
 
 [060 - Willow]
 system = NES
 match = Willow (USA)
+match = Willow
 
 [061 - Double Dragon]
 system = NES
 match = Double Dragon (USA)
+match = Double Dragon
 
 [062 - Dragon Fighter]
 system = NES
 match = Dragon Fighter (USA)
+match = Dragon Fighter
 
 [063 - Double Dribble]
 system = NES
 match = Double Dribble (USA)
+match = Double Dribble
 
 [064 - Crash 'n The Boys: Street Challenge]
 system = NES
 match = Crash 'n The Boys: Street Challenge (USA)
+match = Crash 'n The Boys: Street Challenge
 
 [065 - Mighty Final Fight]
 system = NES
 match = Mighty Final Fight (USA)
+match = Mighty Final Fight
 
 [066 - Karnov]
 system = NES
 match = Karnov (USA)
+match = Karnov
 
 [067 - Double Dragon II: The Revenge]
 system = NES
 match = Double Dragon II: The Revenge (USA)
+match = Double Dragon II: The Revenge
 
 [068 - Flying Warriors]
 system = NES
 match = Flying Warriors (USA)
+match = Flying Warriors
 
 [069 - Monster in My Pocket]
 system = NES
 match = Monster in My Pocket (USA)
+match = Monster in My Pocket
 
 [070 - Tag Team Wrestling]
 system = NES
 match = Tag Team Wrestling (USA)
+match = Tag Team Wrestling
 
 [071 - Kabuki: Quantum Fighter]
 system = NES
 match = Kabuki: Quantum Fighter (USA)
+match = Kabuki: Quantum Fighter
 
 [072 - M.U.S.C.L.E. Tag Team Match]
 system = NES
 match = M.U.S.C.L.E. Tag Team Match (USA)
+match = M.U.S.C.L.E. Tag Team Match
 
 [073 - Low G Man: The Low Gravity Man]
 system = NES
 match = Low G Man: The Low Gravity Man (USA)
+match = Low G Man: The Low Gravity Man
 
 [074 - Little Ninja Brothers]
 system = NES
 match = Little Ninja Brothers (USA)
+match = Little Ninja Brothers
 
 [075 - Kid Icarus]
 system = NES
 match = Kid Icarus (USA)
+match = Kid Icarus
 
 [076 - Life Force]
 system = NES
 match = Life Force (USA)
+match = Life Force
 
 [077 - Batman: The Video Game]
 system = NES
 match = Batman: The Video Game (USA)
+match = Batman: The Video Game
 
 [078 - City Connection]
 system = NES
 match = City Connection (USA)
+match = City Connection
 
 [079 - Bucky O'Hare]
 system = NES
 match = Bucky O'Hare (USA)
+match = Bucky O'Hare
 
 [080 - Burai Fighter]
 system = NES
 match = Burai Fighter (USA)
+match = Burai Fighter
 
 [081 - Abadox]
 system = NES
 match = Abadox (USA)
+match = Abadox
 
 [082 - Snake Rattle 'n Roll]
 system = NES
 match = Snake Rattle 'n Roll (USA)
+match = Snake Rattle 'n Roll
 
 [083 - Gyruss]
 system = NES
 match = Gyruss (USA)
+match = Gyruss
 
 [084 - Ghosts 'n Goblins]
 system = NES
 match = Ghosts 'n Goblins (USA)
+match = Ghosts 'n Goblins
 
 [085 - Urban Champion]
 system = NES
 match = Urban Champion (USA)
+match = Urban Champion
 
 [086 - Spot: The Video Game]
 system = NES
 match = Spot: The Video Game (USA)
+match = Spot: The Video Game
 
 [087 - Zombie Nation]
 system = NES
 match = Zombie Nation (USA)
+match = Zombie Nation
 
 [088 - Palamedes]
 system = NES
 match = Palamedes (USA)
+match = Palamedes
 
 [089 - Rockin' Kats]
 system = NES
 match = Rockin' Kats (USA)
+match = Rockin' Kats
 
 [090 - Amagon]
 system = NES
 match = Amagon (USA)
+match = Amagon
 
 [091 - Slalom]
 system = NES
 match = Slalom (USA)
+match = Slalom
 
 [092 - Astyanax]
 system = NES
 match = Astyanax (USA)
+match = Astyanax
 
 [093 - Rescue: The Embassy Mission]
 system = NES
 match = Rescue: The Embassy Mission (USA)
+match = Rescue: The Embassy Mission
 
 [094 - Monster Party]
 system = NES
 match = Monster Party (USA)
+match = Monster Party
 
 [095 - S.C.A.T.: Special Cybernetic Attack Team]
 system = NES
 match = S.C.A.T.: Special Cybernetic Attack Team (USA)
+match = S.C.A.T.: Special Cybernetic Attack Team
 
-[096 - The Young Indiana Jones Chronicles]
+[096 - Young Indiana Jones Chronicles]
 system = NES
-match = The Young Indiana Jones Chronicles (USA)
+match = Young Indiana Jones Chronicles (USA)
+match = Young Indiana Jones Chronicles
 
 [097 - Krazy Kreatures]
 system = NES
 match = Krazy Kreatures (USA)
+match = Krazy Kreatures
 
 [098 - Xexyz]
 system = NES
 match = Xexyz (USA)
+match = Xexyz
 
 [099 - Archon]
 system = NES
 match = Archon (USA)
+match = Archon
 
 [100 - Section Z]
 system = NES
 match = Section Z (USA)
+match = Section Z
 
 [101 - Rad Racer]
 system = NES
 match = Rad Racer (USA)
+match = Rad Racer
 
 [102 - Pipe Dream]
 system = NES
 match = Pipe Dream (USA)
+match = Pipe Dream
 
 [103 - 3-D WorldRunner]
 system = NES
 match = 3-D WorldRunner (USA)
+match = 3-D WorldRunner
 
 [104 - Jackie Chan's Action Kung Fu]
 system = NES
 match = Jackie Chan's Action Kung Fu (USA)
+match = Jackie Chan's Action Kung Fu
 
-[105 - The Bugs Bunny Crazy Castle]
+[105 - Bugs Bunny Crazy Castle]
 system = NES
-match = The Bugs Bunny Crazy Castle (USA)
+match = Bugs Bunny Crazy Castle (USA)
+match = Bugs Bunny Crazy Castle
 
 [106 - Legendary Wings]
 system = NES
 match = Legendary Wings (USA)
+match = Legendary Wings
 
 [107 - Journey to Silius]
 system = NES
 match = Journey to Silius (USA)
+match = Journey to Silius
 
 [108 - Dragon Spirit: The New Legend]
 system = NES
 match = Dragon Spirit: The New Legend (USA)
+match = Dragon Spirit: The New Legend
 
 [109 - Ice Climber]
 system = NES
 match = Ice Climber (USA)
+match = Ice Climber
 
 [110 - Arkista's Ring]
 system = NES
 match = Arkista's Ring (USA)
+match = Arkista's Ring
 
 [111 - Cowboy Kid]
 system = NES
 match = Cowboy Kid (USA)
+match = Cowboy Kid
 
 [112 - Snow Brothers]
 system = NES
 match = Snow Brothers (USA)
+match = Snow Brothers
 
 [113 - RoadBlasters]
 system = NES
 match = RoadBlasters (USA)
+match = RoadBlasters
 
 [114 - Super Spike V'Ball]
 system = NES
 match = Super Spike V'Ball (USA)
+match = Super Spike V'Ball
 
 [115 - Bases Loaded]
 system = NES
 match = Bases Loaded (USA)
+match = Bases Loaded
 
 [116 - Wrecking Crew]
 system = NES
 match = Wrecking Crew (USA)
+match = Wrecking Crew
 
 [117 - Dr. Chaos]
 system = NES
 match = Dr. Chaos (USA)
+match = Dr. Chaos
 
 [118 - Ring King]
 system = NES
 match = Ring King (USA)
+match = Ring King
 
 [119 - Shadow of the Ninja]
 system = NES
 match = Shadow of the Ninja (USA)
+match = Shadow of the Ninja
 
 [120 - Clash at Demonhead]
 system = NES
 match = Clash at Demonhead (USA)
+match = Clash at Demonhead
 
 [121 - Magician]
 system = NES
 match = Magician (USA)
+match = Magician
 
 [122 - R.C. Pro-Am II]
 system = NES
 match = R.C. Pro-Am II (USA)
+match = R.C. Pro-Am II
 
 [123 - Die Hard]
 system = NES
 match = Die Hard (USA)
+match = Die Hard
 
 [124 - Lethal Weapon]
 system = NES
 match = Lethal Weapon (USA)
+match = Lethal Weapon
 
 [125 - Lemmings]
 system = NES
 match = Lemmings (USA)
+match = Lemmings
 
 [126 - Rambo]
 system = NES
 match = Rambo (USA)
+match = Rambo
 
 [127 - Wizards & Warriors]
 system = NES
 match = Wizards & Warriors (USA)
+match = Wizards & Warriors
 
 [128 - Smash TV]
 system = NES
 match = Smash TV (USA)
+match = Smash TV
 
 [129 - NARC]
 system = NES
 match = NARC (USA)
+match = NARC
 
 [130 - Dusty Diamond's All-Star Softball]
 system = NES
 match = Dusty Diamond's All-Star Softball (USA)
+match = Dusty Diamond's All-Star Softball
 
 [131 - California Games]
 system = NES
 match = California Games (USA)
+match = California Games
 
 [132 - Little Nemo: The Dream Master]
 system = NES
 match = Little Nemo: The Dream Master (USA)
+match = Little Nemo: The Dream Master
 
 [133 - Track & Field II]
 system = NES
 match = Track & Field II (USA)
+match = Track & Field II
 
 [134 - Top Gun]
 system = NES
 match = Top Gun (USA)
+match = Top Gun
 
 [135 - Pirates!]
 system = NES
 match = Pirates! (USA)
+match = Pirates!
 
 [136 - Tiny Toon Adventures]
 system = NES
 match = Tiny Toon Adventures (USA)
+match = Tiny Toon Adventures
 
 [137 - M.C. Kids]
 system = NES
 match = M.C. Kids (USA)
+match = M.C. Kids
 
 [138 - Phantom Fighter]
 system = NES
 match = Phantom Fighter (USA)
+match = Phantom Fighter
 
-[139 - The Little Mermaid]
+[139 - Little Mermaid]
 system = NES
-match = The Little Mermaid (USA)
+match = Little Mermaid (USA)
+match = Little Mermaid
 
 [140 - Track & Field]
 system = NES
 match = Track & Field (USA)
+match = Track & Field
 
 [141 - Iron Tank: The Invasion of Normandy]
 system = NES
 match = Iron Tank: The Invasion of Normandy (USA)
+match = Iron Tank: The Invasion of Normandy
 
 [142 - Whomp 'Em]
 system = NES
 match = Whomp 'Em (USA)
+match = Whomp 'Em
 
 [143 - Bubble Bobble]
 system = NES
 match = Bubble Bobble (USA)
+match = Bubble Bobble
 
 [144 - Sqoon]
 system = NES
 match = Sqoon (USA)
+match = Sqoon
 
 [145 - Excitebike]
 system = NES
 match = Excitebike (USA)
+match = Excitebike
 
 [146 - Cabal]
 system = NES
 match = Cabal (USA)
+match = Cabal
 
 [147 - Felix the Cat]
 system = NES
 match = Felix the Cat (USA)
+match = Felix the Cat
 
 [148 - Elevator Action]
 system = NES
 match = Elevator Action (USA)
+match = Elevator Action
 
 [149 - Hoops]
 system = NES
 match = Hoops (USA)
+match = Hoops
 
 [150 - Maniac Mansion]
 system = NES
 match = Maniac Mansion (USA)
+match = Maniac Mansion
 
 [151 - Nightshade]
 system = NES
 match = Nightshade (USA)
+match = Nightshade
 
 [152 - Golgo 13: Top Secret Episode]
 system = NES
 match = Golgo 13: Top Secret Episode (USA)
+match = Golgo 13: Top Secret Episode
 
 [153 - Sky Kid]
 system = NES
 match = Sky Kid (USA)
+match = Sky Kid
 
 [154 - Klax]
 system = NES
 match = Klax (USA)
+match = Klax
 
 [155 - Mario Bros.]
 system = NES
 match = Mario Bros. (USA)
+match = Mario Bros.
 
 [156 - Robin Hood: Prince of Thieves]
 system = NES
 match = Robin Hood: Prince of Thieves (USA)
+match = Robin Hood: Prince of Thieves
 
 [157 - Galaga: Demons of Death]
 system = NES
 match = Galaga: Demons of Death (USA)
+match = Galaga: Demons of Death
 
 [158 - Spy vs. Spy]
 system = NES
 match = Spy vs. Spy (USA)
+match = Spy vs. Spy
 
 [159 - Donkey Kong]
 system = NES
 match = Donkey Kong (USA)
+match = Donkey Kong
 
 [160 - Donkey Kong Jr.]
 system = NES
 match = Donkey Kong Jr. (USA)
+match = Donkey Kong Jr.
 
 [161 - Pac-Man]
 system = NES
 match = Pac-Man (USA)
+match = Pac-Man
 
 [162 - BurgerTime]
 system = NES
 match = BurgerTime (USA)
+match = BurgerTime
 
 [163 - Kid Niki: Radical Ninja]
 system = NES
 match = Kid Niki: Radical Ninja (USA)
+match = Kid Niki: Radical Ninja
 
 [164 - Ice Hockey]
 system = NES
 match = Ice Hockey (USA)
+match = Ice Hockey
 
 [165 - Lunar Pool]
 system = NES
 match = Lunar Pool (USA)
+match = Lunar Pool
 
 [166 - Lode Runner]
 system = NES
 match = Lode Runner (USA)
+match = Lode Runner
 
 [167 - Ikari Warriors]
 system = NES
 match = Ikari Warriors (USA)
+match = Ikari Warriors
 
 [168 - Rush'n Attack]
 system = NES
 match = Rush'n Attack (USA)
+match = Rush'n Attack
 
 [169 - Golf]
 system = NES
 match = Golf (USA)
+match = Golf
 
 [170 - Xevious: The Avenger]
 system = NES
 match = Xevious: The Avenger (USA)
+match = Xevious: The Avenger
 
 [171 - King's Knight]
 system = NES
 match = King's Knight (USA)
+match = King's Knight
 
 [172 - Space Shuttle Project]
 system = NES
 match = Space Shuttle Project (USA)
+match = Space Shuttle Project
 
 [173 - NES Play Action Football]
 system = NES
 match = NES Play Action Football (USA)
+match = NES Play Action Football
 
 [174 - 8 Eyes]
 system = NES
 match = 8 Eyes (USA)
+match = 8 Eyes
 
 [175 - 10-Yard Fight]
 system = NES
 match = 10-Yard Fight (USA)
+match = 10-Yard Fight
 
 [176 - Qix]
 system = NES
 match = Qix (USA)
+match = Qix
 
 [177 - Gyromite]
 system = NES
 match = Gyromite (USA)
+match = Gyromite
 
 [178 - Anticipation]
 system = NES
 match = Anticipation (USA)
+match = Anticipation
 
 [179 - Hydlide]
 system = NES
 match = Hydlide (USA)
+match = Hydlide
 
 [180 - Where in Time is Carmen Sandiego?]
 system = NES
 match = Where in Time is Carmen Sandiego? (USA)
+match = Where in Time is Carmen Sandiego?
 
 [181 - Spy Hunter]
 system = NES
 match = Spy Hunter (USA)
+match = Spy Hunter
 
 [182 - Baseball]
 system = NES
 match = Baseball (USA)
+match = Baseball
 
 [183 - Donkey Kong 3]
 system = NES
 match = Donkey Kong 3 (USA)
+match = Donkey Kong 3
 
 [184 - Jaws]
 system = NES
 match = Jaws (USA)
+match = Jaws
 
 [185 - Solstice: The Quest for the Staff of Demnos]
 system = NES
 match = Solstice: The Quest for the Staff of Demnos (USA)
+match = Solstice: The Quest for the Staff of Demnos
 
 [186 - Pictionary]
 system = NES
 match = Pictionary (USA)
+match = Pictionary
 
 [187 - Karate Champ]
 system = NES
 match = Karate Champ (USA)
+match = Karate Champ
 
 [188 - Tennis]
 system = NES
 match = Tennis (USA)
+match = Tennis
 
 [189 - Dirty Harry]
 system = NES
 match = Dirty Harry (USA)
+match = Dirty Harry
 
 [190 - Dynowarz: Destruction of Spondylus]
 system = NES
 match = Dynowarz: Destruction of Spondylus (USA)
+match = Dynowarz: Destruction of Spondylus
 
 [191 - Spelunker]
 system = NES
 match = Spelunker (USA)
+match = Spelunker
 
 [192 - Popeye]
 system = NES
 match = Popeye (USA)
+match = Popeye
 
 [193 - Town & Country Surf Designs II: Thrilla's Surfari]
 system = NES
 match = Town & Country Surf Designs II: Thrilla's Surfari (USA)
+match = Town & Country Surf Designs II: Thrilla's Surfari
 
 [194 - Micro Machines]
 system = NES
 match = Micro Machines (USA)
+match = Micro Machines
 
 [195 - Town & Country Surf Designs: Wood & Water Rage]
 system = NES
 match = Town & Country Surf Designs: Wood & Water Rage (USA)
+match = Town & Country Surf Designs: Wood & Water Rage
 
 [196 - Milon's Secret Castle]
 system = NES
 match = Milon's Secret Castle (USA)
+match = Milon's Secret Castle
 
 [197 - Ivan 'Ironman' Stewart's Super Off Road]
 system = NES
 match = Ivan 'Ironman' Stewart's Super Off Road (USA)
+match = Ivan 'Ironman' Stewart's Super Off Road
 
 [198 - James Bond Jr.]
 system = NES
 match = James Bond Jr. (USA)
+match = James Bond Jr.
 
 [199 - Pin Bot]
 system = NES
 match = Pin Bot (USA)
+match = Pin Bot
 
 [200 - M.U.L.E.]
 system = NES
 match = M.U.L.E. (USA)
+match = M.U.L.E.
 
 [201 - Conquest of the Crystal Palace]
 system = NES
 match = Conquest of the Crystal Palace (USA)
+match = Conquest of the Crystal Palace
 
 [202 - Cyber Stadium Series: Base Wars]
 system = NES
 match = Cyber Stadium Series: Base Wars (USA)
+match = Cyber Stadium Series: Base Wars
 
-[203 - The Legend of Kage]
+[203 - Legend of Kage]
 system = NES
-match = The Legend of Kage (USA)
+match = Legend of Kage (USA)
+match = Legend of Kage
 
 [204 - Spiritual Warfare]
 system = NES
 match = Spiritual Warfare (USA)
+match = Spiritual Warfare
 
 [205 - Isolated Warrior]
 system = NES
 match = Isolated Warrior (USA)
+match = Isolated Warrior
 
 [206 - Pinball]
 system = NES
 match = Pinball (USA)
+match = Pinball
 
 [207 - 720 Degrees]
 system = NES
 match = 720 Degrees (USA)
+match = 720 Degrees
 
 [208 - Fist of the North Star]
 system = NES
 match = Fist of the North Star (USA)
+match = Fist of the North Star
 
 [209 - Flight of the Intruder]
 system = NES
 match = Flight of the Intruder (USA)
+match = Flight of the Intruder
 
 [210 - Remote Control]
 system = NES
 match = Remote Control (USA)
+match = Remote Control
 
 [211 - Zen Intergalactic Ninja]
 system = NES
 match = Zen Intergalactic Ninja (USA)
+match = Zen Intergalactic Ninja
 
 [212 - Eliminator Boat Duel]
 system = NES
 match = Eliminator Boat Duel (USA)
+match = Eliminator Boat Duel
 
 [213 - Kung-Fu Heroes]
 system = NES
 match = Kung-Fu Heroes (USA)
+match = Kung-Fu Heroes
 
 [214 - Bump 'n' Jump]
 system = NES
 match = Bump 'n' Jump (USA)
+match = Bump 'n' Jump
 
 [215 - Castle of Dragon]
 system = NES
 match = Castle of Dragon (USA)
+match = Castle of Dragon
 
-[216 - The Flintstones: The Rescue of Dino & Hoppy]
+[216 - Flintstones: The Rescue of Dino & Hoppy]
 system = NES
-match = The Flintstones: The Rescue of Dino & Hoppy (USA)
+match = Flintstones: The Rescue of Dino & Hoppy (USA)
+match = Flintstones: The Rescue of Dino & Hoppy
 
 [217 - Volleyball]
 system = NES
 match = Volleyball (USA)
+match = Volleyball
 
 [218 - Star Trek 25th Anniversary]
 system = NES
 match = Star Trek 25th Anniversary (USA)
+match = Star Trek 25th Anniversary
 
 [219 - Galaxy 5000: Racing in the 51st Century]
 system = NES
 match = Galaxy 5000: Racing in the 51st Century (USA)
+match = Galaxy 5000: Racing in the 51st Century
 
 [220 - Tiger-Heli]
 system = NES
 match = Tiger-Heli (USA)
+match = Tiger-Heli
 
 [221 - G.I. Joe: A Real American Hero]
 system = NES
 match = G.I. Joe: A Real American Hero (USA)
+match = G.I. Joe: A Real American Hero
 
 [222 - Battletoads]
 system = NES
 match = Battletoads (USA)
+match = Battletoads
 
 [223 - Gremlins 2: The New Batch]
 system = NES
 match = Gremlins 2: The New Batch (USA)
+match = Gremlins 2: The New Batch
 
 [224 - Dragon Power]
 system = NES
 match = Dragon Power (USA)
+match = Dragon Power
 
 [225 - Kid Klown in Night Mayor World]
 system = NES
 match = Kid Klown in Night Mayor World (USA)
+match = Kid Klown in Night Mayor World
 
 [226 - Captain Skyhawk]
 system = NES
 match = Captain Skyhawk (USA)
+match = Captain Skyhawk
 
-[227 - The Ultimate Stuntman]
+[227 - Ultimate Stuntman]
 system = NES
-match = The Ultimate Stuntman (USA)
+match = Ultimate Stuntman (USA)
+match = Ultimate Stuntman
 
 [228 - Mach Rider]
 system = NES
 match = Mach Rider (USA)
+match = Mach Rider
 
 [229 - Skate or Die]
 system = NES
 match = Skate or Die (USA)
+match = Skate or Die
 
 [230 - Hogan's Alley]
 system = NES
 match = Hogan's Alley (USA)
+match = Hogan's Alley
 
 [231 - Ninja Kid]
 system = NES
 match = Ninja Kid (USA)
+match = Ninja Kid
 
 [232 - Duck Hunt]
 system = NES
 match = Duck Hunt (USA)
+match = Duck Hunt
 
 [233 - Nobunaga's Ambition]
 system = NES
 match = Nobunaga's Ambition (USA)
+match = Nobunaga's Ambition
 
-[234 - The Immortal]
+[234 - Immortal]
 system = NES
-match = The Immortal (USA)
+match = Immortal (USA)
+match = Immortal
 
 [235 - Double Dare]
 system = NES
 match = Double Dare (USA)
+match = Double Dare
 
-[236 - The Karate Kid]
+[236 - Karate Kid]
 system = NES
-match = The Karate Kid (USA)
+match = Karate Kid (USA)
+match = Karate Kid
 
 [237 - Krusty's Fun House]
 system = NES
 match = Krusty's Fun House (USA)
+match = Krusty's Fun House
 
 [238 - Marble Madness]
 system = NES
 match = Marble Madness (USA)
+match = Marble Madness
 
 [239 - Jurassic Park]
 system = NES
 match = Jurassic Park (USA)
+match = Jurassic Park
 
 [240 - Fantasy Zone]
 system = NES
 match = Fantasy Zone (USA)
+match = Fantasy Zone
 
 [241 - Totally Rad]
 system = NES
 match = Totally Rad (USA)
+match = Totally Rad
 
-[242 - The Adventures of Captain Comic]
+[242 - Adventures of Captain Comic]
 system = NES
-match = The Adventures of Captain Comic (USA)
+match = Adventures of Captain Comic (USA)
+match = Adventures of Captain Comic
 
 [243 - Mad Max]
 system = NES
 match = Mad Max (USA)
+match = Mad Max
 
 [244 - Rainbow Islands]
 system = NES
 match = Rainbow Islands (USA)
+match = Rainbow Islands
 
 [245 - Dick Tracy]
 system = NES
 match = Dick Tracy (USA)
+match = Dick Tracy
 
 [246 - Puzznic]
 system = NES
 match = Puzznic (USA)
+match = Puzznic
 
 [247 - Paperboy]
 system = NES
 match = Paperboy (USA)
+match = Paperboy
 
 [248 - Trog]
 system = NES
 match = Trog (USA)
+match = Trog
 
 [249 - Hudson's Adventure Island]
 system = NES
 match = Hudson's Adventure Island (USA)
+match = Hudson's Adventure Island
 
 [250 - Yo! Noid]
 system = NES
 match = Yo! Noid (USA)
+match = Yo! Noid
 
 [251 - 1942]
 system = NES
 match = 1942 (USA)
+match = 1942
 
 [252 - Dr. Mario]
 system = NES
 match = Dr. Mario (USA)
+match = Dr. Mario
 
 [253 - Bad Dudes]
 system = NES
 match = Bad Dudes (USA)
+match = Bad Dudes
 
 [254 - Fester's Quest]
 system = NES
 match = Fester's Quest (USA)
+match = Fester's Quest
 
 [255 - Gumshoe]
 system = NES
 match = Gumshoe (USA)
+match = Gumshoe
 
 [256 - Wario's Woods]
 system = NES
 match = Wario's Woods (USA)
+match = Wario's Woods
 
 [257 - Greg Norman's Golf Power]
 system = NES
 match = Greg Norman's Golf Power (USA)
+match = Greg Norman's Golf Power
 
 [258 - Alien 3]
 system = NES
 match = Alien 3 (USA)
+match = Alien 3
 
 [259 - Bomber Man]
 system = NES
 match = Bomber Man (USA)
+match = Bomber Man
 
 [260 - Puss 'n Boots: Pero's Great Adventure]
 system = NES
 match = Puss 'n Boots: Pero's Great Adventure (USA)
+match = Puss 'n Boots: Pero's Great Adventure
 
 [261 - Shinobi]
 system = NES
 match = Shinobi (USA)
+match = Shinobi
 
 [262 - Yoshi]
 system = NES
 match = Yoshi (USA)
+match = Yoshi
 
 [263 - RoboCop]
 system = NES
 match = RoboCop (USA)
+match = RoboCop
 
 [264 - Werewolf: The Last Warrior]
 system = NES
 match = Werewolf: The Last Warrior (USA)
+match = Werewolf: The Last Warrior
 
 [265 - MagMax]
 system = NES
 match = MagMax (USA)
+match = MagMax
 
-[266 - The Three Stooges]
+[266 - Three Stooges]
 system = NES
-match = The Three Stooges (USA)
+match = Three Stooges (USA)
+match = Three Stooges
 
 [267 - Classic Concentration]
 system = NES
 match = Classic Concentration (USA)
+match = Classic Concentration
 
 [268 - Renegade]
 system = NES
 match = Renegade (USA)
+match = Renegade
 
 [269 - Clu Clu Land]
 system = NES
 match = Clu Clu Land (USA)
+match = Clu Clu Land
 
 [270 - Jeopardy!]
 system = NES
 match = Jeopardy! (USA)
+match = Jeopardy!
 
 [271 - Street Fighter 2010: The Final Fight]
 system = NES
 match = Street Fighter 2010: The Final Fight (USA)
+match = Street Fighter 2010: The Final Fight
 
 [272 - Adventures of Tom Sawyer]
 system = NES
 match = Adventures of Tom Sawyer (USA)
+match = Adventures of Tom Sawyer
 
 [273 - Advanced Dungeons & Dragons: Pool of Radiance]
 system = NES
 match = Advanced Dungeons & Dragons: Pool of Radiance (USA)
+match = Advanced Dungeons & Dragons: Pool of Radiance
 
 [274 - RoboWarrior]
 system = NES
 match = RoboWarrior (USA)
+match = RoboWarrior
 
 [275 - Teenage Mutant Ninja Turtles]
 system = NES
 match = Teenage Mutant Ninja Turtles (USA)
+match = Teenage Mutant Ninja Turtles
 
 [276 - Joust]
 system = NES
 match = Joust (USA)
+match = Joust
 
 [277 - Chubby Cherub]
 system = NES
 match = Chubby Cherub (USA)
+match = Chubby Cherub
 
 [278 - Captain America and the Avengers]
 system = NES
 match = Captain America and the Avengers (USA)
+match = Captain America and the Avengers
 
 [279 - Indiana Jones and the Temple of Doom]
 system = NES
 match = Indiana Jones and the Temple of Doom (USA)
+match = Indiana Jones and the Temple of Doom
 
 [280 - Mickey Mousecapade]
 system = NES
 match = Mickey Mousecapade (USA)
+match = Mickey Mousecapade
 
 [281 - Ikari Warriors II: Victory Road]
 system = NES
 match = Ikari Warriors II: Victory Road (USA)
+match = Ikari Warriors II: Victory Road
 
 [282 - Super Cars]
 system = NES
 match = Super Cars (USA)
+match = Super Cars
 
 [283 - Godzilla: Monster of Monsters!]
 system = NES
 match = Godzilla: Monster of Monsters! (USA)
+match = Godzilla: Monster of Monsters!
 
 [284 - Bee 52]
 system = NES
 match = Bee 52 (USA)
+match = Bee 52
 
 [285 - Ghoul School]
 system = NES
 match = Ghoul School (USA)
+match = Ghoul School
 
 [286 - Dr. Jekyll and Mr. Hyde]
 system = NES
 match = Dr. Jekyll and Mr. Hyde (USA)
+match = Dr. Jekyll and Mr. Hyde
 
 [287 - Home Alone]
 system = NES
 match = Home Alone (USA)
+match = Home Alone
 
 [288 - Platoon]
 system = NES
 match = Platoon (USA)
+match = Platoon
 
 [289 - Magic Johnson's Fast Break]
 system = NES
 match = Magic Johnson's Fast Break (USA)
+match = Magic Johnson's Fast Break
 
 [290 - Wheel of Fortune]
 system = NES
 match = Wheel of Fortune (USA)
+match = Wheel of Fortune
 
 [291 - Total Recall]
 system = NES
 match = Total Recall (USA)
+match = Total Recall
 
 [292 - Hatris]
 system = NES
 match = Hatris (USA)
+match = Hatris
 
 [293 - RoboCop 2]
 system = NES
 match = RoboCop 2 (USA)
+match = RoboCop 2
 
 [294 - Hudson Hawk]
 system = NES
 match = Hudson Hawk (USA)
+match = Hudson Hawk
 
 [295 - Ghostbusters II]
 system = NES
 match = Ghostbusters II (USA)
+match = Ghostbusters II
 
 [296 - Star Wars]
 system = NES
 match = Star Wars (USA)
+match = Star Wars
 
 [297 - Raid on Bungeling Bay]
 system = NES
 match = Raid on Bungeling Bay (USA)
+match = Raid on Bungeling Bay
 
 [298 - Pinball Quest]
 system = NES
 match = Pinball Quest (USA)
+match = Pinball Quest
 
 [299 - Adventures of Dino Riki]
 system = NES
 match = Adventures of Dino Riki (USA)
+match = Adventures of Dino Riki
 
 [300 - Mario's Time Machine]
 system = NES
 match = Mario's Time Machine (USA)
+match = Mario's Time Machine
 
-[301 - The Bugs Bunny Birthday Blowout]
+[301 - Bugs Bunny Birthday Blowout]
 system = NES
-match = The Bugs Bunny Birthday Blowout (USA)
+match = Bugs Bunny Birthday Blowout (USA)
+match = Bugs Bunny Birthday Blowout
 
 [302 - Defenders of Dynatron City]
 system = NES
 match = Defenders of Dynatron City (USA)
+match = Defenders of Dynatron City
 
 [303 - Break Time: The National Pool Tour]
 system = NES
 match = Break Time: The National Pool Tour (USA)
+match = Break Time: The National Pool Tour
 
 [304 - Castlequest]
 system = NES
 match = Castlequest (USA)
+match = Castlequest
 
 [305 - Q*Bert]
 system = NES
 match = Q*Bert (USA)
+match = Q*Bert
 
 [306 - American Gladiators]
 system = NES
 match = American Gladiators (USA)
+match = American Gladiators
 
-[307 - The Adventures of Rad Gravity]
+[307 - Adventures of Rad Gravity]
 system = NES
-match = The Adventures of Rad Gravity (USA)
+match = Adventures of Rad Gravity (USA)
+match = Adventures of Rad Gravity
 
 [308 - Castelian]
 system = NES
 match = Castelian (USA)
+match = Castelian
 
 [309 - Silver Surfer]
 system = NES
 match = Silver Surfer (USA)
+match = Silver Surfer
 
 [310 - Rollergames]
 system = NES
 match = Rollergames (USA)
+match = Rollergames
 
 [311 - Gilligan's Island]
 system = NES
 match = Gilligan's Island (USA)
+match = Gilligan's Island
 
 [312 - Dig Dug II: Trouble in Paradise]
 system = NES
 match = Dig Dug II: Trouble in Paradise (USA)
+match = Dig Dug II: Trouble in Paradise
 
-[313 - The Krion Conquest]
+[313 - Krion Conquest]
 system = NES
-match = The Krion Conquest (USA)
+match = Krion Conquest (USA)
+match = Krion Conquest
 
 [314 - Vegas Dream]
 system = NES
 match = Vegas Dream (USA)
+match = Vegas Dream
 
 [315 - Jordan vs. Bird: One-on-One]
 system = NES
 match = Jordan vs. Bird: One-on-One (USA)
+match = Jordan vs. Bird: One-on-One
 
 [316 - Kid Kool and the Quest for the Seven Wonder Herbs]
 system = NES
 match = Kid Kool and the Quest for the Seven Wonder Herbs (USA)
+match = Kid Kool and the Quest for the Seven Wonder Herbs
 
 [317 - Rampage]
 system = NES
 match = Rampage (USA)
+match = Rampage
 
 [318 - Baby Boomer]
 system = NES
 match = Baby Boomer (USA)
+match = Baby Boomer
 
 [319 - Caveman Games]
 system = NES
 match = Caveman Games (USA)
+match = Caveman Games
 
 [320 - Adventures in the Magic Kingdom]
 system = NES
 match = Adventures in the Magic Kingdom (USA)
+match = Adventures in the Magic Kingdom
 
-[321 - The Simpsons: Bart vs. the World]
+[321 - Simpsons: Bart vs. the World]
 system = NES
-match = The Simpsons: Bart vs. the World (USA)
+match = Simpsons: Bart vs. the World (USA)
+match = Simpsons: Bart vs. the World
 
 [322 - Fisher-Price: Firehouse Rescue]
 system = NES
 match = Fisher-Price: Firehouse Rescue (USA)
+match = Fisher-Price: Firehouse Rescue
 
 [323 - Mappy-Land]
 system = NES
 match = Mappy-Land (USA)
+match = Mappy-Land
 
 [324 - Toobin']
 system = NES
 match = Toobin' (USA)
+match = Toobin'
 
 [325 - WWF WrestleMania]
 system = NES
 match = WWF WrestleMania (USA)
+match = WWF WrestleMania
 
 [326 - Xenophobe]
 system = NES
 match = Xenophobe (USA)
+match = Xenophobe
 
 [327 - Deadly Towers]
 system = NES
 match = Deadly Towers (USA)
+match = Deadly Towers
 
 [328 - Skate or Die 2: The Search for Double Trouble]
 system = NES
 match = Skate or Die 2: The Search for Double Trouble (USA)
+match = Skate or Die 2: The Search for Double Trouble
 
 [329 - Treasure Master]
 system = NES
 match = Treasure Master (USA)
+match = Treasure Master
 
 [330 - Friday the 13th]
 system = NES
 match = Friday the 13th (USA)
+match = Friday the 13th
 
 [331 - WWF Wrestlemania Challenge]
 system = NES
 match = WWF Wrestlemania Challenge (USA)
+match = WWF Wrestlemania Challenge
 
 [332 - Dash Galaxy in the Alien Asylum]
 system = NES
 match = Dash Galaxy in the Alien Asylum (USA)
+match = Dash Galaxy in the Alien Asylum
 
 [333 - Best of the Best: Championship Karate]
 system = NES
 match = Best of the Best: Championship Karate (USA)
+match = Best of the Best: Championship Karate
 
 [334 - Time Lord]
 system = NES
 match = Time Lord (USA)
+match = Time Lord
 
 [335 - Mystery Quest]
 system = NES
 match = Mystery Quest (USA)
+match = Mystery Quest
 
 [336 - Sesame Street ABC]
 system = NES
 match = Sesame Street ABC (USA)
+match = Sesame Street ABC
 
 [337 - Wally Bear and the NO! Gang]
 system = NES
 match = Wally Bear and the NO! Gang (USA)
+match = Wally Bear and the NO! Gang
 
 [338 - Sesame Street 123]
 system = NES
 match = Sesame Street 123 (USA)
+match = Sesame Street 123
 
-[339 - The Simpsons: Bart vs. the Space Mutants]
+[339 - Simpsons: Bart vs. the Space Mutants]
 system = NES
-match = The Simpsons: Bart vs. the Space Mutants (USA)
+match = Simpsons: Bart vs. the Space Mutants (USA)
+match = Simpsons: Bart vs. the Space Mutants
 
 [340 - Casino Kid]
 system = NES
 match = Casino Kid (USA)
+match = Casino Kid
 
-[341 - The Black Bass USA]
+[341 - Black Bass USA]
 system = NES
-match = The Black Bass USA (USA)
+match = Black Bass USA (USA)
+match = Black Bass USA
 
 [342 - Snoopy's Silly Sports Spectacular!]
 system = NES
 match = Snoopy's Silly Sports Spectacular! (USA)
+match = Snoopy's Silly Sports Spectacular!
 
 [343 - Ghostbusters]
 system = NES
 match = Ghostbusters (USA)
+match = Ghostbusters
 
 [344 - Motor City Patrol]
 system = NES
 match = Motor City Patrol (USA)
+match = Motor City Patrol
 
 [345 - Super Pitfall]
 system = NES
 match = Super Pitfall (USA)
+match = Super Pitfall
 
-[346 - The Last Ninja]
+[346 - Last Ninja]
 system = NES
-match = The Last Ninja (USA)
+match = Last Ninja (USA)
+match = Last Ninja
 
 [347 - Master Chu and the Drunkard Hu]
 system = NES
 match = Master Chu and the Drunkard Hu (USA)
+match = Master Chu and the Drunkard Hu
 
 [348 - Orb-3D]
 system = NES
 match = Orb-3D (USA)
+match = Orb-3D
 
 [349 - Who Framed Roger Rabbit?]
 system = NES
 match = Who Framed Roger Rabbit? (USA)
+match = Who Framed Roger Rabbit?
 
 [350 - Dragon's Lair]
 system = NES
 match = Dragon's Lair (USA)
+match = Dragon's Lair
 
 [351 - Back to the Future II & III]
 system = NES
 match = Back to the Future II & III (USA)
+match = Back to the Future II & III
 
 [352 - Action 52]
 system = NES
 match = Action 52 (USA)
+match = Action 52
 
 [353 - Quattro Adventure]
 system = NES
 match = Quattro Adventure (USA)
+match = Quattro Adventure
 
 [354 - Treasure Island Dizzy]
 system = NES
 match = Treasure Island Dizzy (USA)
+match = Treasure Island Dizzy
 
 [355 - Major League Baseball]
 system = NES
 match = Major League Baseball (USA)
+match = Major League Baseball
 
 [356 - Klash Ball]
 system = NES
 match = Klash Ball (USA)
+match = Klash Ball
 
 [357 - Taboo: The Sixth Sense]
 system = NES
 match = Taboo: The Sixth Sense (USA)
+match = Taboo: The Sixth Sense
 
 [358 - Chiller]
 system = NES
 match = Chiller (USA)
+match = Chiller
 
 [359 - Back to the Future]
 system = NES
 match = Back to the Future (USA)
+match = Back to the Future
 
 [360 - Beetlejuice]
 system = NES
 match = Beetlejuice (USA)
+match = Beetlejuice
 
 [361 - Where's Waldo?]
 system = NES
 match = Where's Waldo? (USA)
+match = Where's Waldo?
 
 [362 - Swamp Thing]
 system = NES
 match = Swamp Thing (USA)
+match = Swamp Thing
 
 [363 - Silent Assault]
 system = NES
 match = Silent Assault (USA)
+match = Silent Assault
 
 [364 - Color a Dinosaur]
 system = NES
 match = Color a Dinosaur (USA)
+match = Color a Dinosaur
 
 [365 - Power Punch II]
 system = NES
 match = Power Punch II (USA)
+match = Power Punch II
 
 [366 - Dudes With Attitude]
 system = NES
 match = Dudes With Attitude (USA)
+match = Dudes With Attitude
 
-[367 - The Blues Brothers]
+[367 - Blues Brothers]
 system = NES
-match = The Blues Brothers (USA)
+match = Blues Brothers (USA)
+match = Blues Brothers
 
 [368 - Athena]
 system = NES
 match = Athena (USA)
+match = Athena
 
 [369 - Muppet Adventure: Chaos at the Carnival]
 system = NES
 match = Muppet Adventure: Chaos at the Carnival (USA)
+match = Muppet Adventure: Chaos at the Carnival
 
 [370 - Barbie]
 system = NES
 match = Barbie (USA)
+match = Barbie
 
 [371 - Skull & Crossbones]
 system = NES
 match = Skull & Crossbones (USA)
+match = Skull & Crossbones
 
 [372 - Circus Caper]
 system = NES
 match = Circus Caper (USA)
+match = Circus Caper
 
 [373 - Robodemons]
 system = NES
 match = Robodemons (USA)
+match = Robodemons
 
 [374 - Deathbots]
 system = NES
 match = Deathbots (USA)
+match = Deathbots
 
-[375 - The Uncanny X-Men]
+[375 - Uncanny X-Men]
 system = NES
-match = The Uncanny X-Men (USA)
+match = Uncanny X-Men (USA)
+match = Uncanny X-Men
 
 [376 - Operation Secret Storm]
 system = NES
 match = Operation Secret Storm (USA)
+match = Operation Secret Storm
 
 [377 - Raid 2020]
 system = NES
 match = Raid 2020 (USA)
+match = Raid 2020
 
